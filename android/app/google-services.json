@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "482832104157",
+    "firebase_url": "https://weddingkik-default-rtdb.firebaseio.com",
+    "project_id": "weddingkik",
+    "storage_bucket": "weddingkik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482832104157:android:8f84f6b09f16af9c6eb934",
+        "android_client_info": {
+          "package_name": "com.weddingkik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482832104157-ou9drndc0hlnstd50h9ssauj4tijjsan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-oV5ryOFtT9s4F4yhcCH7wKrTxg0ksvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482832104157-ou9drndc0hlnstd50h9ssauj4tijjsan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
